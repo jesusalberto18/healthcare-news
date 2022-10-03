@@ -7,9 +7,25 @@
 body {
   background: #9CD1FF;
   color: #fff;
+  font-size: 16px;
 }
 
 a {
   color: #fff;
   text-decoration: none;
+}
+
+.container {
+  margin: auto;
+  width: 90%;
+}
+
+.nav-main {
+  font-size: 20px;
+  font-family: arial;
+  font-weight: bolder;
+}
+
+ul {
+  list-style: none;
 }
