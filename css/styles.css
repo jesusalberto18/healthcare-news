@@ -17,7 +17,7 @@ a {
 
 .container {
   margin: auto;
-  width: 90%;
+  width: 100%;
 }
 
 .nav-main {
@@ -37,7 +37,7 @@ ul {
 }
 
 .nav-logo {
-  width: 50px;
+  width: 60px;
 }
 
 .nav-main ul {
@@ -55,4 +55,9 @@ ul {
 .nav-main ul.menu {
   flex: 1;
   margin-left: 20 px;
+}
+
+hr {
+  color: #fff;
+  border: 2px solid;
 }
