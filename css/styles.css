@@ -21,6 +21,8 @@ a {
 }
 
 .nav-main {
+  display: flex;
+  justify-content: space-between;
   font-size: 20px;
   font-family: arial;
   font-weight: bolder;
