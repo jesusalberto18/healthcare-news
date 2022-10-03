@@ -3,3 +3,13 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  background: #9CD1FF;
+  color: #fff;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
