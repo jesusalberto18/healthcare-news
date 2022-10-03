@@ -29,6 +29,7 @@ a {
   font-weight: bolder;
   height: 60px;
   padding: 20px 0;
+  background: #B3E7CA;
 }
 
 ul {
@@ -45,4 +46,13 @@ ul {
 
 .nav-main ul li {
   padding: 15px;
+}
+
+.nav-main ul li a:hover {
+  border-bottom: 2px solid #fff;
+}
+
+.nav-main ul.menu {
+  flex: 1;
+  margin-left: 20 px;
 }
