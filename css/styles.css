@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #9CD1FF;
+  background: #0667D4;
   color: #fff;
   font-size: 16px;
 }
@@ -29,7 +29,7 @@ a {
   font-weight: bolder;
   height: 60px;
   padding: 20px 0;
-  background: #B3E7CA;
+  background: #19A374;
 }
 
 ul {
@@ -54,7 +54,7 @@ ul {
 
 .nav-main ul.menu {
   flex: 1;
-  margin-left: 20 px;
+  margin-left: 20px;
 }
 
 hr {
@@ -95,8 +95,8 @@ hr {
   cursor: pointer;
   display: inline-block;
   background: none;
-  color: #B3E7CA;
-  border: 3px solid #B3E7CA;
+  color: #fff;
+  border: 3px solid #19A374;
   border-radius: 40px;
   font-weight: bold;
   padding: 10px 20px;
@@ -106,6 +106,6 @@ hr {
 }
 
 .btn:hover {
-  background: #B3E7CA;
+  background: #19A374;
   color: #fff;
 }
