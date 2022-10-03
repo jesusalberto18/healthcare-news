@@ -84,9 +84,28 @@ hr {
 .banner h1 {
   font-size: 60px;
   padding-left: 20px;
-  padding-top: 235px;
+  padding-top: 170px;
 }
 
 .banner a {
   padding-left: 20px;
+}
+
+.btn {
+  cursor: pointer;
+  display: inline-block;
+  background: none;
+  color: #B3E7CA;
+  border: 3px solid #B3E7CA;
+  border-radius: 40px;
+  font-weight: bold;
+  padding: 10px 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.btn:hover {
+  background: #B3E7CA;
+  color: #fff;
 }
