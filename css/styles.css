@@ -23,11 +23,26 @@ a {
 .nav-main {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   font-size: 20px;
   font-family: arial;
   font-weight: bolder;
+  height: 60px;
+  padding: 20px 0;
 }
 
 ul {
   list-style: none;
+}
+
+.nav-logo {
+  width: 50px;
+}
+
+.nav-main ul {
+  display: flex;
+}
+
+.nav-main ul li {
+  padding: 15px;
 }
