@@ -135,9 +135,8 @@ hr {
   height: 40%;
 }
 
-.news-cards p {
-  font-size: 10px;
-  background: #fff;
+.news-cards a{
+  font-size: 15px;
 }
 
 .image, .under-banner h2 {
