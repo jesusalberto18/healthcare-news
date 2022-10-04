@@ -137,6 +137,7 @@ hr {
 
 .news-cards a{
   font-size: 15px;
+  border: 2px solid #fff;
 }
 
 .image, .under-banner h2 {
@@ -156,7 +157,7 @@ hr {
 }
 
 .first-row {
-  display: grid;
+  display: flex;
   justify-content: center;
   align-items: center;
   padding-left: 80px;
@@ -167,7 +168,7 @@ hr {
 }
 
 .second-row {
-  display: grid;
+  display: flex;
   justify-content: center;
   align-items: center;
   padding-left: -80px;
