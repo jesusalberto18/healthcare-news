@@ -137,7 +137,6 @@ hr {
 
 .news-cards a{
   font-size: 15px;
-  border: 2px solid #fff;
 }
 
 .image, .under-banner h2 {
@@ -154,6 +153,7 @@ hr {
   margin-top: 0;
   width: 100%;
   height: 100%;
+  background: #fff;
 }
 
 .first-row {
@@ -161,7 +161,7 @@ hr {
   justify-content: center;
   align-items: center;
   padding-left: 80px;
-  width: 400%;
+  width: 150%;
   height: 800px;
   margin-bottom: 300px;
   padding-bottom: 100px;
@@ -172,18 +172,19 @@ hr {
   justify-content: center;
   align-items: center;
   padding-left: -80px;
-  width: 200%;
+  width: 210%;
   height: 800px;
   margin-bottom: 300px;
   padding-bottom: 100px;
 }
 
+/*
 .first-row, .second-row {
-  width: 400%;
+  display: inline-flex;
+  width: 150%;
   height: 800px;
-  margin-bottom: 300px;
-  padding-bottom: 100px;
 }
+*/
 
 .footer, .copy, .github {
   background: #19A374;
