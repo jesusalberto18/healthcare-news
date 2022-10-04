@@ -115,10 +115,19 @@ hr {
   grid-template-columns: repeat(4, 1fr);
 }
 
-.news-cards {
-  display: inline-block;
-  justify-content: space-between;
+.news-cards, .news-cards h3, img p {
+  display: flex;
+  justify-content: center;
   align-items: center;
+  margin-top: 40px;
+  background: #19A374;
+  color: #fff;
+  width: 70%;
+  height: 50%;
+}
+
+.news-cards p {
+  font-size: 10px;
 }
 
 .image, .under-banner h2 {
