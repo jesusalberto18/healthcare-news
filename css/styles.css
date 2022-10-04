@@ -115,6 +115,12 @@ hr {
   grid-template-columns: repeat(4, 1fr);
 }
 
+.news-cards {
+  display: inline-block;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .image, .under-banner h2 {
   margin-top: 30px;
   padding-left: 250px;
