@@ -109,3 +109,25 @@ hr {
   background: #19A374;
   color: #fff;
 }
+
+.news {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.image, .under-banner h2 {
+  margin-top: 30px;
+  padding-left: 250px;
+  width: 200%;
+  height: 480px;
+  display: block;
+  justify-content: center;
+  text-align: center;
+}
+
+.card {
+  width: 100%;
+  height: 480px;
+  margin-top: 30px;
+  padding-top: 30px;
+}
