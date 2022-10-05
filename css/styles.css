@@ -137,8 +137,14 @@ hr {
   border: 3px solid #19A374;
 }
 
-.news-cards a{
+.news-cards a {
   font-size: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.news-cards a:hover {
+  text-decoration: underline;
 }
 
 .image, .under-banner h2 {
