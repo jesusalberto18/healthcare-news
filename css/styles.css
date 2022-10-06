@@ -6,7 +6,6 @@
   padding: 0;
 }
 
-
 body {
   background: #0667D4;
   color: #fff;
@@ -155,6 +154,18 @@ hr {
   display: block;
   justify-content: center;
   text-align: center;
+}
+
+.under-banner h2 {
+  padding-top: 30px;
+  margin-bottom: 0;
+  font-size: 20px;
+}
+
+.under-banner p {
+  margin-top: -500px;
+  display: flex;
+  align-items: center;
 }
 
 .card {
