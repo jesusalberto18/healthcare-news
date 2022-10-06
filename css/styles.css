@@ -191,6 +191,12 @@ hr {
   background-position: center;
 }
 
+.banner-down h1 {
+  font-size: 60px;
+  padding-left: 20px;
+  padding-top: 40px;
+}
+
 /*
 .first-row, .second-row {
   display: inline-flex;
