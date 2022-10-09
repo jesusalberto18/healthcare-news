@@ -291,3 +291,11 @@ hr {
     grid-template-columns: repeat(2, 1fr)
   }
 }
+
+/* mobile max-width 500px*/
+
+@media (max-width: 500px) {
+  .news-cards {
+    grid-template-columns: 1fr
+  }
+}
