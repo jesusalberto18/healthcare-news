@@ -210,14 +210,6 @@ hr {
   padding-top: 40px;
 }
 
-/*
-.first-row, .second-row {
-  display: inline-flex;
-  width: 150%;
-  height: 800px;
-}
-*/
-
  /* social */
 
 .social {
@@ -271,6 +263,8 @@ hr {
     left: 0;
     background:#19A374;
     height: 35%;
+    transform: translateX(-20px);
+    opacity: .85;
   }
 
   .news-cards {
