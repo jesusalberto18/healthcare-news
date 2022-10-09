@@ -280,6 +280,7 @@ hr {
     height: 35%;
     transform: translateX(-500px);
     opacity: .85;
+    transition: transform .5s ease-in-out;
   }
 
   .nav-main ul.menu.show {
