@@ -282,6 +282,10 @@ hr {
     opacity: .85;
   }
 
+  .nav-main ul.menu.show {
+    transform: translateX(-20px);
+  }
+
   .news-cards {
     grid-template-columns: repeat(2, 1fr)
   }
