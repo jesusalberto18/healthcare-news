@@ -1,5 +1,7 @@
 //scroll reveal
 
+ScrollReveal().reveal('.nav-main');
+
 ScrollReveal().reveal('.banner', { delay: 1000 });
 
 ScrollReveal().reveal('.under-banner', { delay: 1000 });
