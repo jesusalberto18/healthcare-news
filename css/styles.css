@@ -282,7 +282,7 @@ hr {
     top: 0;
     left: 0;
     background:#19A374;
-    height: 35%;
+    height: 1000%;
     transform: translateX(-500px);
     opacity: .85;
     transition: transform .5s ease-in-out;
