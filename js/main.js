@@ -6,5 +6,5 @@ console.log("This message is a confirmation for all the developers that this scr
 // toggle menu
 
 document.querySelector('.menu-btn').addEventListener('click', () => {
-  document.querySelector('.menu').classList.toggle('show');
+  document.querySelector('.nav-menu').classList.toggle('show');
 });
