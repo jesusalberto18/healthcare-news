@@ -68,10 +68,9 @@ hr {
   margin: 40px;
 }
 
-.banner {
-  background-image: url(../images/banner.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
+.cards-banner-one,
+.cards-banner-two {
+  background-color:
   height: 20%;
 }
 
@@ -210,7 +209,7 @@ hr {
 /* Links */
 .footer-links {
   background: #0fc2d6;
-  color: #616161;
+  color: #fff;
   font-size: 12px;
   padding: 35px 0;
 }
@@ -256,9 +255,9 @@ hr {
     position: absolute;
     top: 0;
     left: 0;
-    background: #2f3640;
+    background: #0fc2d6;
     width: 50%;
-    height: 100%;
+    height: 1000%;
     border-right: #ccc 1px solid;
     opacity: 0.9;
     padding: 30px;
